@@ -1,4 +1,3 @@
-host#region
 kedutaanrakyatjp.com:2053#HK
 winnerrakyatjp.com:2053#HK
 super1-polo.top:2053#HK
